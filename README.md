@@ -3,7 +3,7 @@ Circuito simples que detecta luminosidade de ambiente utilizando sensor (fotores
 
 ##### Ambiente Virtual de Hardware e Software [TinkerCad](https://www.tinkercad.com)  
 - É possível simular tanto componentes de hardware quanto a lógica de programação envolvida no circuito. Bastante útil porque dispensa a compra dos componentes eletrônicos físicos e a instalação da IDE no computador pra testes.
-- Importe o projeto dentro da plataforma clicando [aqui](https://github.com/sganzerla/arduino-sensor-luminosidade/blame/master/Bodacious%20Inari.brd).
+- Importe o projeto dentro da plataforma clicando [aqui](https://github.com/sganzerla/arduino-sensor-luminosidade/blame/master/arduino-sensor-luminosidade-ldr-5mm.brd).
 
 ### Software necessário
 
@@ -36,7 +36,7 @@ Circuito simples que detecta luminosidade de ambiente utilizando sensor (fotores
  ### b) Resistores  
  Servem para diminuir a tensão.
  
- <p>O de 300Ω instalado entre o positivo do LED e a conexão com a porta digital do Arduino.</p>
+ <p>O de 300Ω instalado entre o negativo do LED e a conexão com GND do Arduino.</p>
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/76045740-c0783000-5f3c-11ea-9188-3b239840fbda.png">
   <img src="https://user-images.githubusercontent.com/22710963/76045740-c0783000-5f3c-11ea-9188-3b239840fbda.png" alt="reset" style="max-width:100%;"></a></p> 
   
