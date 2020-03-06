@@ -1,6 +1,13 @@
 # arduino-sensor-luminosidade
 Circuito simples que detecta luminosidade de ambiente utilizando sensor (fotoresistor) LDR 5MM
 
+### Comportamento com aumento e diminuição da intensidade da luz (simulação) (vídeo)
+<p>
+ <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/Dr21A8kpxTA" >
+  <img src="https://user-images.githubusercontent.com/22710963/76048192-dfc68b80-5f43-11ea-906f-1f445d62aa4f.png" alt="reset" style="max-width:100%;"></a>
+</p> 
+
+
 ##### Ambiente Virtual de Hardware e Software [TinkerCad](https://www.tinkercad.com)  
 - É possível simular tanto componentes de hardware quanto a lógica de programação envolvida no circuito. Bastante útil porque dispensa a compra dos componentes eletrônicos físicos e a instalação da IDE no computador pra testes.
 - Importe o projeto dentro da plataforma clicando [aqui](https://github.com/sganzerla/arduino-sensor-luminosidade/blame/master/arduino-sensor-luminosidade-ldr-5mm.brd).
