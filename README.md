@@ -94,8 +94,8 @@ Perna maior do LED é ligado no positivo e a perna menor precisa de um resistor 
 
 ### Circuito
 <p>
- <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/76046510-d981e080-5f3e-11ea-917f-193223151065.png">
-  <img src="https://user-images.githubusercontent.com/22710963/76046510-d981e080-5f3e-11ea-917f-193223151065.png" alt="reset" style="max-width:100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/76047071-6ed1a480-5f40-11ea-90ae-4cf95fc5a36f.png">
+  <img src="https://user-images.githubusercontent.com/22710963/76047071-6ed1a480-5f40-11ea-90ae-4cf95fc5a36f.png" alt="reset" style="max-width:100%;"></a>
 </p> 
 
 
