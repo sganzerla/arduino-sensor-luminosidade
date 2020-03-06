@@ -1,7 +1,8 @@
 # arduino-sensor-luminosidade
 Circuito simples que detecta luminosidade de ambiente utilizando sensor (fotoresistor) LDR 5MM
 
-### Comportamento com aumento e diminuição da intensidade da luz (simulação) (vídeo)
+### Comportamento com aumento e diminuição da intensidade da luz (simulação) 
+[ver vídeo](https://youtu.be/Dr21A8kpxTA){:target="_blank"}.
 <p>
  <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/Dr21A8kpxTA" >
   <img src="https://user-images.githubusercontent.com/22710963/76048192-dfc68b80-5f43-11ea-906f-1f445d62aa4f.png" alt="reset" style="max-width:100%;"></a>
