@@ -105,7 +105,9 @@ Perna maior do LED é ligado no positivo e a perna menor precisa de um resistor 
   <img src="https://user-images.githubusercontent.com/22710963/76047071-6ed1a480-5f40-11ea-90ae-4cf95fc5a36f.png" alt="reset" style="max-width:100%;"></a>
 </p> 
 
-
+### Links úteis
+> [Manual do mundo](https://www.youtube.com/watch?v=vEdYjAbzrAE&list=PLYjrJH3e_wDPwKigz0AcIgzk9BF4lqDuy)
+> [Blog explicando o sensor-ldr-5mm](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-fotoresistor-sensor-ldr-5mm)
 
 
 
