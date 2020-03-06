@@ -106,10 +106,13 @@ Perna maior do LED é ligado no positivo e a perna menor precisa de um resistor 
 </p> 
 
 ### Links úteis
-> [Manual do mundo](https://www.youtube.com/watch?v=vEdYjAbzrAE&list=PLYjrJH3e_wDPwKigz0AcIgzk9BF4lqDuy)
+<p>[Manual do mundo](https://www.youtube.com/watch?v=vEdYjAbzrAE&list=PLYjrJH3e_wDPwKigz0AcIgzk9BF4lqDuy)</p>
 
-> [Blog explicando o sensor-ldr-5mm](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-fotoresistor-sensor-ldr-5mm)
+<p> [Blog explicando o sensor-ldr-5mm](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-fotoresistor-sensor-ldr-5mm) </p>
 
+###  Aplicações
+<p> Luz com autoacendimento em jardins ou áreas externas. </p>
+<p> Contador de pessoas que passam por catracas (ao passarem fazem sombra e incrementam um contador) </p>
 
 
   
