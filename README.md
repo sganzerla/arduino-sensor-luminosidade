@@ -1,10 +1,10 @@
 # arduino-sensor-luminosidade
-Circuito simples que detecta luminosidade de ambiente utilizando sensor (fotoresistor) LDR 5MM
+Circuito simples que detecta luminosidade de ambiente utilizando sensor (fotoresistor) LDR 5MM e controla relé que está ligado na corrente elétrica residencial.
 
-### Comportamento com aumento e diminuição da intensidade da luz (simulação)(video)
+### Controlar relé com aumento ou diminuição da intensidade de luz ambiente(simulação) (vídeo)
 <p>
- <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/Dr21A8kpxTA" >
-  <img src="https://user-images.githubusercontent.com/22710963/76048192-dfc68b80-5f43-11ea-906f-1f445d62aa4f.png" alt="reset" style="max-width:100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/Uq1nWzP8aSo" >
+  <img src="https://user-images.githubusercontent.com/22710963/76115701-6a040380-5fc7-11ea-937f-1ce134e0a05c.png" alt="reset" style="max-width:100%;"></a>
 </p> 
 
 
@@ -33,6 +33,7 @@ Circuito simples que detecta luminosidade de ambiente utilizando sensor (fotores
 - d) 1 Protoboard
 - e) 7-10 Cabos de conexão 
 - f) 1 Sensor de luminosidade (Fotoresistor) LDR 5mm
+- g) 1 Relé SPDT (opcional)
 ```
 
  ### a) Placa Arduino com cabo USB
@@ -69,6 +70,11 @@ Circuito simples que detecta luminosidade de ambiente utilizando sensor (fotores
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/76045914-34b2d380-5f3d-11ea-94bf-a2a1a03f8bb1.png">
   <img src="https://user-images.githubusercontent.com/22710963/76045914-34b2d380-5f3d-11ea-94bf-a2a1a03f8bb1.png" alt="reset" style="max-width:100%;"></a></p> 
 
+  ### f) Relé SPDT
+  Não possui lado de polaridade fixo.
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/76117242-370f3f00-5fca-11ea-8191-36dfafe6a363.png">
+  <img src="https://user-images.githubusercontent.com/22710963/76117242-370f3f00-5fca-11ea-8191-36dfafe6a363.png" alt="reset" style="max-width:100%;"></a></p> 
+
 ## Instalação dos Leds
 Perna maior do LED é ligado no positivo e a perna menor precisa de um resistor de 220 ou 330 Ohm entre a ligação com o GND (negativo)
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/73712954-7ce69800-46ea-11ea-980e-bec2802b2c12.png">
@@ -101,14 +107,13 @@ Perna maior do LED é ligado no positivo e a perna menor precisa de um resistor 
 
 ### Circuito
 <p>
- <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/76047071-6ed1a480-5f40-11ea-90ae-4cf95fc5a36f.png">
-  <img src="https://user-images.githubusercontent.com/22710963/76047071-6ed1a480-5f40-11ea-90ae-4cf95fc5a36f.png" alt="reset" style="max-width:100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/76116853-6ec9b700-5fc9-11ea-97e8-b27dcc22919d.png">
+  <img src="https://user-images.githubusercontent.com/22710963/76116853-6ec9b700-5fc9-11ea-97e8-b27dcc22919d.png" alt="reset" style="max-width:100%;"></a>
 </p> 
 
 ### Links úteis
-> [Manual do mundo](https://www.youtube.com/watch?v=vEdYjAbzrAE&list=PLYjrJH3e_wDPwKigz0AcIgzk9BF4lqDuy) 
-
-> [Blog explicando o sensor-ldr-5mm](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-fotoresistor-sensor-ldr-5mm)  
+> [Manual do mundo](https://www.youtube.com/watch?v=vEdYjAbzrAE&list=PLYjrJH3e_wDPwKigz0AcIgzk9BF4lqDuy)
+> [Blog explicando o sensor-ldr-5mm](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-fotoresistor-sensor-ldr-5mm)
 
 ###  Aplicações
 <p> Luz com autoacendimento em jardins ou áreas externas. </p>
