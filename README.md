@@ -33,8 +33,8 @@ Circuito simples que detecta luminosidade de ambiente utilizando sensor (fotores
 
   ### b) 1 Sensor de luminosidade (Fotoresistor) LDR 5mm
   
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/77604369-14998300-6ef1-11ea-977d-2bbdb8241a28.png">
-  <img src="https://user-images.githubusercontent.com/22710963/77604369-14998300-6ef1-11ea-977d-2bbdb8241a28.png" alt="reset" style="max-width:100%;"></a></p> 
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/77650239-edbb6b00-6f49-11ea-8d88-197b3f723556.png">
+  <img src="https://user-images.githubusercontent.com/22710963/77650239-edbb6b00-6f49-11ea-8d88-197b3f723556.png" alt="reset" style="max-width:100%;"></a></p> 
  
   ### c) Protoboard 
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/22710963/77499362-a8574a80-6e30-11ea-9744-a15c3206fd50.png">
